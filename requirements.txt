@@ -1,7 +1,0 @@
-tensorflow
-gradio
-numpy
-pillow
-matplotlib
-seaborn
-scikit-learn
